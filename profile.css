@@ -35,8 +35,7 @@ img{
     width: 100px;
     align-items: center;
     margin-top: 40px;
-    margin-left: 450px;
-    margin-right: 40px;
+    justify-content: center;
 
 }
 
@@ -77,8 +76,8 @@ form{
     justify-content: center;
     display: flex;
     flex-direction: column;
-    margin-left: 100px;
-    margin-right: 100px;
+    
+    
 }
 label{
     display: block;
